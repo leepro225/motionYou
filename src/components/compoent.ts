@@ -1,4 +1,4 @@
-export interface Comonent {
+export interface Component {
     attachTo(parent: HTMLElement, position?: InsertPosition): void;
 }
 /**
